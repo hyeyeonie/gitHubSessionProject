@@ -35,7 +35,7 @@ struct ContentView: View {
                 }
             }
         } detail: {
-            Text("Select an ite")
+            Text("Selecㅎㅎt an ite")
         }
     }
 
